@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="610"/>
+		<item key="y" value="287"/>
+		<item key="width" value="700"/>
+		<item key="height" value="505"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\jcardero\OneDrive - NTT DATA EMEAL\Escritorio\Dev\David\Cibertec\Tercer Ciclo (Pendiente)\LP I\5. Trabajos en Clases\jcalendar-1.4\lib\jcalendar-1.4.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.CategoryEditDialog">
+		<item key="x" value="610"/>
+		<item key="y" value="316"/>
+		<item key="width" value="700"/>
+		<item key="height" value="447"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.models.table.TableModelDialog">
+		<item key="x" value="481"/>
+		<item key="y" value="205"/>
+		<item key="width" value="958"/>
+		<item key="height" value="670"/>
+	</section>
+</section>
